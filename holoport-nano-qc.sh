@@ -1,4 +1,4 @@
 #!@bash@/bin/bash
 
 
-fulload() { cpuload > /dev/null | cpuload > /dev/null | cpuload > /dev/null | cpuload > /dev/null  & }; fulload; read; 
+fulload() { yes > /dev/null | yes > /dev/null | yes > /dev/null | yes > /dev/null  & }; fulload; read; 
